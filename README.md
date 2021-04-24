@@ -12,3 +12,11 @@ If anyone wants to contribute, then follow the process given below :
 Things keep in mind while writing your code :
 1. Include comments, so that it can be easily understood.
 2. Provide problem link at the top.
+
+
+| Problem name                                                  |  Topic             |  Link                                                                            |
+|---------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
+| Super reduced String                                          | Strings            | <a href="https://www.hackerrank.com/challenges/reduced-string/problem" >Link</a> |
+| CamelCase                                                     | Strings            | <a href="https://www.hackerrank.com/challenges/camelcase/problem" >Link</a>      |
+| Strong Password                                               | Strings            | <a href="https://www.hackerrank.com/challenges/strong-password/problem" >Link</a>|
+
