@@ -13,7 +13,20 @@ string rtrim(const string &);
  *  1. INTEGER n
  *  2. STRING password
  */
-
+/*
+    PROBLEM LINK : https://www.hackerrank.com/challenges/strong-password/problem
+    
+    Approach : 
+    1. Initalise length=0,digit=0,lower=0,upper=0, special=0 and cnt=0.
+    2. Iterate through the string and increment the variables depends if any upper, lower, special or number characters found.
+    3. After this, check if any of the variable remained zero, then increment cnt.
+    4. Also keep track for the length of the string. 
+            a. If n>=6
+                return cnt,
+            b. else 
+                return max(6-n,cnt)
+       where n is the length of the string.
+*/
 int minimumNumber(int n, string s) {
     // Return the minimum number of characters to make the password strong
     int length=0,digit=0,lower=0,upper=0,special=0,i;
