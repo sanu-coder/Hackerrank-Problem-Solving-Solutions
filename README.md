@@ -20,7 +20,7 @@ Things keep in mind while writing your code :
 
 | Problem name                                                  |  Topic             |  Problem Link                                                                    |  Solution link|
 |---------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|--------------|
-| Super reduced String                                          | Strings            | <a href="https://www.hackerrank.com/challenges/reduced-string/problem" >Link</a> |
-| CamelCase                                                     | Strings            | <a href="https://www.hackerrank.com/challenges/camelcase/problem" >Link</a>      |
-| Strong Password                                               | Strings            | <a href="https://www.hackerrank.com/challenges/strong-password/problem" >Link</a>|
+| Super reduced String                                          | Strings            | <a href="https://www.hackerrank.com/challenges/reduced-string/problem" >Link</a> | <a href="https://github.com/sanu-coder/Hackerrank-Problem-Solving-Solutions/blob/main/Strings/Super%20Reduced%20Strings.cpp" >Link</a>
+| CamelCase                                                     | Strings            | <a href="https://www.hackerrank.com/challenges/camelcase/problem" >Link</a>      | <a href="https://github.com/sanu-coder/Hackerrank-Problem-Solving-Solutions/blob/main/Strings/Super%20Reduced%20Strings.cpp" >Link</a>
+| Strong Password                                               | Strings            | <a href="https://www.hackerrank.com/challenges/strong-password/problem" >Link</a>| <a href="https://github.com/sanu-coder/Hackerrank-Problem-Solving-Solutions/blob/main/Strings/Super%20Reduced%20Strings.cpp" >Link</a>
 
