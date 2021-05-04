@@ -1,5 +1,7 @@
 /*
+Problem Link :  https://www.hackerrank.com/challenges/camelcase/problem
 Approach : 
+
 1. Initialise count=0.
 2. Traverse the string, if you find a capital letter than increment count .
 3. Return count to main function.
